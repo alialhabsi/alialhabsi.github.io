@@ -3,11 +3,11 @@
   icon: entypo/github.svg
 
 - caption: Google Scholar
-  href: https://stackoverflow.com
+  href: https://scholar.google.com.my/citations?user=12K2TrYAAAAJ&hl
   icon: entypo/google-play.svg
 
-- caption: Facebook
-  href: https://stackoverflow.com
+- caption: Email
+  href: mailto:ali.aa.alhabsi@gmail.com
   icon: entypo/email.svg
 
 - caption: Twitter
