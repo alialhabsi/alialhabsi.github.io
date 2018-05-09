@@ -15,7 +15,7 @@ Due to the ongoing war in my native country Yemen, I have only been working as a
 I spend most of my time now, reading technical books, participating in CTFs and following the new trends in cyber security.
 I'll be using this space to do technical write-ups, tutorials and also talking football. Stay tuned. :)
 
-{% include components/carousel.html %}
+
 
 
 ### Recent Posts
