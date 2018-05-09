@@ -4,11 +4,11 @@
 
 - caption: Google Scholar
   href: https://stackoverflow.com
-  icon: entypo/google-scholar.svg
+  icon: entypo/google+.svg
 
-- caption: Facebook
-  href: https://www.facebook.com
-  icon: entypo/facebook.svg
+- caption: Email
+  href: ali.aa.alhabsi@gmail.com
+  icon: entypo/email.svg
 
 - caption: Twitter
   href: https://www.twitter.com
