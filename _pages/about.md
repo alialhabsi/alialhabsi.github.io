@@ -16,7 +16,7 @@ In addition, I'm an excellent communicator, a trait which I developed while work
 
 ### Technology
 
-* Python/Java/C#/
+* Python/Java/C#
 * Shell
 * Burp Suite
 * Linux
