@@ -49,12 +49,6 @@ defaults:
       layout: defaults/post
   -
     scope:
-      path: "_portfolio"
-    values:
-      show_profile: false
-      layout: defaults/portfolio
-  -
-    scope:
       path: "_projects"
     values:
       show_profile: false
