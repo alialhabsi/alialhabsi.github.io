@@ -8,13 +8,16 @@ narrow: true
 
 <hr />
 
-The about page allows you to expand a bit more on the intro. Add some more information here about your skills, experience, etc.
+While working as a pentester, I have strong hands-on skills in analyzing the security of web applications and infrastrctures. I find and provide PoC for common vulnerabilites such as: XSS, SQLi, RCE, LFI, CSRF and many others. I also have experience in performing secure code reviews and reverse engineering network protocols. I'm also comfortable in scripting my own tools (mainly in Python) and maintaining Linux systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Prior to that I was working under Telecom Malaysia (TM) grant for 3 years, I acquired strong skills  in developing Java network solutions, as well as SDLC, documentation, R&D, Database Managment and security. 
+
+In addition, I'm an excellent communicator, a trait which I developed while working as a football manager also during project presentations under TM. My greatest asset is my ability to adapt, I relish taking on big challenges.
 
 ### Technology
 
-* JavaScript
-* Python
-* Go
-* Etc
+* Python/Java/C#/
+* Shell
+* Burp Suite
+* Linux
+* Metasploit
