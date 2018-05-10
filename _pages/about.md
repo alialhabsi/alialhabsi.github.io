@@ -8,7 +8,7 @@ narrow: true
 
 <hr />
 
-While working as a pentester, I have strong hands-on skills in analyzing the security of web applications and infrastrctures. I find and provide PoC for common vulnerabilites such as: XSS, SQLi, RCE, LFI, CSRF and many others. I also have experience in performing secure code reviews and reverse engineering network protocols. I'm also comfortable in scripting my own tools (mainly in Python) and maintaining Linux systems.
+While working as a pentester, I have developed strong hands-on skills in analyzing the security of web applications and infrastructures. I find and provide PoC for common vulnerabilites such as: XSS, SQLi, RCE, LFI, CSRF and many others. I also have experience in performing secure code reviews and reverse engineering network protocols. I'm also comfortable in scripting my own tools (mainly in Python) and maintaining Linux systems.
 
 Prior to that I was working under Telecom Malaysia (TM) grant for 3 years, I acquired strong skills  in developing Java network solutions, as well as SDLC, documentation, R&D, Database Managment and security. 
 
