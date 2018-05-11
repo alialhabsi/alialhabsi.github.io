@@ -24,13 +24,13 @@ I'll be using this space to do technical write-ups, tutorials and also talking f
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-      <img class="d-block img-fluid" src="theme/img/ny.jpg" alt="First slide">
+      <img class="d-block img-fluid" src="theme/img/ny.jpg" alt="First slide" width="900" height="600">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid" src="theme/img/sec.jpg" alt="Second slide">
+      <img class="d-block img-fluid" src="theme/img/sec.jpg" alt="Second slide" width="900" height="600">
     </div>
     <div class="carousel-item">
-      <img class="d-block img-fluid" src="theme/img/ball.jpg" alt="Third slide">
+      <img class="d-block img-fluid" src="theme/img/ball.jpg" alt="Third slide" width="900" height="600">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
