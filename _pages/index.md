@@ -15,7 +15,7 @@ Due to the ongoing war in my native country Yemen, I have only been working as a
 I spend most of my time now, reading technical books, participating in CTFs and following the new trends in cyber security.
 I'll be using this space to do technical write-ups, tutorials and also talking football. Stay tuned. :)
 
-
+<p>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
