@@ -42,8 +42,8 @@ I'll be using this space to do technical write-ups, tutorials and also talking f
     <span class="sr-only">Next</span>
   </a>
 </div>
+</p>
 
-<br>
 ### Recent Posts
 
 {% for post in site.posts limit:3 %}
