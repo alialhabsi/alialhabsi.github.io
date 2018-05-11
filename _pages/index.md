@@ -22,7 +22,7 @@ I'll be using this space to do technical write-ups, tutorials and also talking f
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner" role="listbox" style=" width:100%; max-height: 480px !important;">
+  <div class="carousel-inner" role="listbox" style=" width:100%; max-height: 495px !important;">
     <div class="carousel-item active">
       <img class="d-block img-fluid" src="theme/img/ny.jpg" alt="First slide">
     </div>
