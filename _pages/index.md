@@ -42,7 +42,6 @@ I'll be using this space to do technical write-ups, tutorials and also talking f
     <span class="sr-only">Next</span>
   </a>
 </div>
----
 
 ### Recent Posts
 
