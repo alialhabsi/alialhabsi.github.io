@@ -43,7 +43,7 @@ I'll be using this space to do technical write-ups, tutorials and also talking f
   </a>
 </div>
 
-
+<br>
 ### Recent Posts
 
 {% for post in site.posts limit:3 %}
